@@ -1,0 +1,12 @@
+Philadelphia, Pittsburgh, Harrisburg, Hershey
+Boston, New York
+Hartford, New York
+Los Angeles, San Diego
+New York, Croton-Harmon
+St. Petersburg, Tampa
+Croton-Harmon, Tampa
+Newark, New York, Philadelphia
+Los Angeles, San Franscisco
+San Franscisco, San Jose
+Seattle, Portland
+Portland, San Jose, Seattle
