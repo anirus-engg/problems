@@ -6,7 +6,11 @@
 
     <groupId>com.ags</groupId>
     <artifactId>interview-problems</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>urlfileprocessor</module>
+    </modules>
 
-    
+
 </project>
