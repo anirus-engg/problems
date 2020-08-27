@@ -11,7 +11,7 @@
     <modules>
         <module>connected</module>
         <module>urlfileprocessor</module>
-        <module>numbertowords</module>
+        <module>problems</module>
     </modules>
 
 

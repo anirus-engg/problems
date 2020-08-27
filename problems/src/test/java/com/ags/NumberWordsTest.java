@@ -1,6 +1,5 @@
 package com.ags;
 
-import com.ags.numberWords.NumberToWords;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 

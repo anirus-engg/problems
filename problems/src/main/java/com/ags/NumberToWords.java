@@ -1,4 +1,4 @@
-package com.ags.numberWords;
+package com.ags;
 
 import java.util.HashMap;
 import java.util.Map;
